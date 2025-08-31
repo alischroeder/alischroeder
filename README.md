@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ali!</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Lover-lightpink?style=for-the-badge&logo=💻" />
-  <img src="https://img.shields.io/badge/UX-Designer-lightblue?style=for-the-badge&logo=✨" />
-</p>
-
 ---
 
 ### 🌸 About Me
