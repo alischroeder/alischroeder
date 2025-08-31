@@ -9,24 +9,21 @@
 
 ### 🌸 About Me
 - 🎓 I’m studying **User Experience Design**  
-- 💻 I enjoy **coding clean, accessible designs**  
-- ✨ My goal: **build intuitive healthcare & accessibility tools**  
-- 🎨 Hobbies: sketching, playing piano, and experimenting with design systems  
+- 💻 I enjoy **clean, accessible designs**  
+- ✨ My goal: **build intuitive user experiences**  
+- 🎨 Hobbies: UX Design, painting, drawing, and walking on the beach
 
 ---
 
 ### 💻 Technical Skills
-- HTML, CSS, JavaScript  
-- React + Tailwind  
-- Figma & Adobe XD  
+- Figma 
+- Adobe Creative Suite 
 - Git/GitHub  
 
 ---
 
 ### 🌷 Find Me Around the Web
-- [LinkedIn](https://www.linkedin.com)  
-- [Behance](https://www.behance.net)  
-- [CodePen](https://codepen.io)  
+- [LinkedIn](https://www.linkedin.com/alischroeder/)  
 
 ---
 
