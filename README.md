@@ -23,7 +23,7 @@
 ---
 
 ### 🌷 Find Me Around the Web
-- [LinkedIn](https://www.linkedin.com/alischroeder/)  
+- [LinkedIn](https://www.linkedin.com/in/alischroeder/)  
 
 ---
 
