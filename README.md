@@ -25,7 +25,7 @@
 
 ### I love the beach!
 <p align="center">
-  <img src="./mypic.png" alt="Ali's photo" width="250" style="border-radius:20px;"/>
+  <img src="./IMG_1155.JPG" alt="Ali's photo" width="250" style="border-radius:20px;"/>
 </p>
 
 
