@@ -19,12 +19,16 @@
 
 ### 🌷 Find Me Around the Web
 - [LinkedIn](https://www.linkedin.com/in/alischroeder/)  
+- [Portfolio](https://alischroederdesign.com)
 
 ---
 
-### 📊 GitHub Stats
+### I love the beach!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&title_color=ffb6c1&icon_color=87cefa&text_color=333&bg_color=ffffff" />
+  <img src="./mypic.png" alt="Ali's photo" width="250" style="border-radius:20px;"/>
 </p>
 
 
+
+
+[def]: https://alischroederdesign.com
